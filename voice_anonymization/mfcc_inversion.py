@@ -1,4 +1,4 @@
-"""MFCC-inversion voice blurring (Cohen–Hadria et al., §2.2.2)."""
+"""MFCC-inversion anonymization baseline (Cohen–Hadria et al., §2.2.2)."""
 
 from __future__ import annotations
 
