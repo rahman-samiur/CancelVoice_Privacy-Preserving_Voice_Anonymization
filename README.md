@@ -19,7 +19,6 @@ CancelVoice addresses a core tension in voice authentication: systems need enoug
 |-- anonymization_pipeline/   # Adversarial and diffusion-based privacy filters
 |-- notebooks/                # Experiment inspection, metric visualization, ablations
 |-- scripts/                  # Data preparation and model training entrypoints
-|-- source_separation/        # Speaker isolation experiments prior to anonymization
 |-- voice_blurring/           # Prototype privacy filter methods
 `-- requirements.txt          # Python dependencies
 ```
