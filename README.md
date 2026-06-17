@@ -1,4 +1,4 @@
-# CancelVoice: Privacy-Preserving Voice Authentication
+# CancelVoice: Privacy-Preserving Voice Anonymization
 
 CancelVoice is a research system for privacy-preserving voice authentication using adversarially trained generative models and diffusion-based privacy filters. The goal is to protect speaker identity during authentication without compromising the utility of the voice signal — enabling secure, anonymized voice-based access control.
 
